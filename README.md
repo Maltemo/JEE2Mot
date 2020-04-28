@@ -5,3 +5,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Salut, java ?
 * Tu prends la porte et tu xor !
 * Tu viens manger ? alt + tab
+* Double xor military encryption
