@@ -6,3 +6,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Tu prends la porte et tu xor !
 * Tu viens manger ? alt + tab
 * Double xor military encryption
+* Je te lance au DFIR de retrouver l'ordinateur compromis !
