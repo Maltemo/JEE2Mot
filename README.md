@@ -7,3 +7,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Tu viens manger ? alt + tab
 * Double xor military encryption
 * Je te lance au DFIR de retrouver l'ordinateur compromis !
+* vCenter d'oranger
