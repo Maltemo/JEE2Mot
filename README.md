@@ -8,3 +8,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Double xor military encryption
 * Je te met au DFIR de retrouver l'ordinateur compromis !
 * On peut dire que les développeurs agiles sont forensic-le
+* vCenter d'oranger !
