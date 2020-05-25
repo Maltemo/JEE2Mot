@@ -9,3 +9,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Je te met au DFIR de retrouver l'ordinateur compromis !
 * On peut dire que les développeurs agiles sont forensic-le
 * vCenter d'oranger !
+* CERT, l'affaire est dans le SOC
