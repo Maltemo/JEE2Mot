@@ -10,3 +10,5 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * On peut dire que les développeurs agiles sont forensic-le
 * vCenter d'oranger !
 * CERT, l'affaire est dans le SOC
+* Qui APT ?
+* Si tu fait encore des SIEM, tu prends la porte et tu SOAR !
