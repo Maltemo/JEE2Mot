@@ -10,3 +10,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * On peut dire que les développeurs agiles sont forensic-le
 * vCenter d'oranger !
 * CERT, l'affaire est dans le SOC
+* Tu consommes trop, fait GAFA toi
