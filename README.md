@@ -11,3 +11,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * vCenter d'oranger !
 * CERT, l'affaire est dans le SOC
 * Tu consommes trop, fait GAFA toi
+* Shell must go on 🎶
