@@ -12,3 +12,5 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * CERT, l'affaire est dans le SOC
 * Tu consommes trop, fait GAFA toi
 * Shell must go on 🎶
+* Qui APT ?
+* Si tu fait encore des SIEM, tu prends la porte et tu SOAR !
