@@ -15,3 +15,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Qui APT ?
 * Si tu fait encore des SIEM, tu prends la porte et tu SOAR !
 * Dit donc t'es vachement drôle, t'es un sacré commit
+* Les infrastructures portuaires sont ha-ckés
