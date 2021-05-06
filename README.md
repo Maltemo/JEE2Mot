@@ -16,3 +16,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Si tu fait encore des SIEM, tu prends la porte et tu SOAR !
 * Dit donc t'es vachement drôle, t'es un sacré commit
 * Les infrastructures portuaires sont ha-ckés
+* J'ai hash NT un nouveau logement: il se situe à côté d'hash LM
