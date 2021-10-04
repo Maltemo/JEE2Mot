@@ -17,3 +17,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Dit donc t'es vachement drôle, t'es un sacré commit
 * Les infrastructures portuaires sont ha-ckés
 * J'ai hash NT un nouveau logement: il se situe à côté d'hash LM
+* Allo, ça coupe, je passe sous un tunnel IPsec
