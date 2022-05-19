@@ -18,3 +18,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Les infrastructures portuaires sont ha-ckés
 * J'ai hash NT un nouveau logement: il se situe à côté d'hash LM
 * Allo, ça coupe, je passe sous un tunnel IPsec
+* Ils m'entraînent au bout de la nuit, les daemons de minuit
