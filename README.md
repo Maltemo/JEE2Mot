@@ -21,3 +21,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Ils m'entraînent au bout de la nuit, les daemons de minuit
 * La licence de jeu vidéo RAID Z Redemption est de loin ma préférée
 * Ça SAMBA et ça revient 🎶
+* En root, mauvaise troupe !
