@@ -22,4 +22,5 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * La licence de jeu vidéo RAID Z Redemption est de loin ma préférée
 * Ça SAMBA et ça revient 🎶
 * En root, mauvaise troupe !
-* Asterisk et Obélix à la fête du SIP
+* Asterisk, Obélix et IP fixe à la fête du SIP
+* On leur a rooté dessus
