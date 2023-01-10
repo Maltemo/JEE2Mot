@@ -24,3 +24,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * En root, mauvaise troupe !
 * Asterisk, Obélix et IP fixe à la fête du SIP
 * On leur a rooté dessus
+* À quoi sert la supervision ? À voir à travers un hyperviseur
