@@ -25,3 +25,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Asterisk, Obélix et IP fixe à la fête du SIP
 * On leur a rooté dessus
 * À quoi sert la supervision ? À voir à travers un hyperviseur
+* Je ne travaille plus dans l'informatique, je suis devenu expert crontab
