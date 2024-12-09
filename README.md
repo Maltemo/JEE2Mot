@@ -27,3 +27,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * À quoi sert la supervision ? À voir à travers un hyperviseur
 * Je ne travaille plus dans l'informatique, je suis devenu expert crontab
 * Grand curl malade
+* Allumer le fuzz 🎶
