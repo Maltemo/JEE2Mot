@@ -28,3 +28,4 @@ Les patatos-dinguozouaves vous présentent leurs meilleurs expressions :
 * Je ne travaille plus dans l'informatique, je suis devenu expert crontab
 * Grand curl malade
 * Allumer le fuzz 🎶
+* T'as dev ça chacal !
